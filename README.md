@@ -6,7 +6,8 @@
 #### 公开源码，希望大家能点点Star，也能为我下一次迭代提供动力呀，别光fork啊老铁们🤣
 ---  
 
-#### 关于代码：  
+#### 关于代码： 
+初次学习，源项目：https://github.com/necrodiver/HospitalAutoRegister
 1. 本项目技术栈：golang, vue  
   1.1 golang使用了gin框架作为本地站点服务器，otto插件运行js, req来模拟https请求接收真实数据 （go的各种好处，本人不会py）；  
   1.2 app文件夹内前端采用Vue3+vite+antd （个人练习选用）； 
